@@ -1,0 +1,12 @@
+
+.jumbotron {
+    text-align: center;
+}
+
+.choice{
+    border: 1px  solid black;
+    border-width: 3px;
+    padding: 1px;
+    border-radius: 4px;
+    cursor: pointer;
+}
